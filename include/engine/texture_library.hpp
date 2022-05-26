@@ -8,6 +8,7 @@ class Texture;
 
 #include <map>
 #include <memory>
+#include <string>
 
 // Static class that stores loaded images as Texture objects so that they only
 // need to be loaded once in the lifetime of the program

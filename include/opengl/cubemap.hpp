@@ -7,6 +7,7 @@ Jeremy Taylor CS 114 Final Project Spring 2018
 #include "glad/glad.h"
 
 #include <memory>
+#include <string>
 #include <vector>
 
 class ShaderProgram;
