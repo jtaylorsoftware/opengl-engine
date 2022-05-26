@@ -1,6 +1,3 @@
-CS 114 Projects in Advanced 3D Computer Graphics 
-Spring 2018 Final Project by Jeremy Taylor
-
 3D Renderer framework that renders static meshes using physically based
 shaders.
 
